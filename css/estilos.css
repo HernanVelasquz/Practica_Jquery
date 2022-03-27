@@ -1,0 +1,22 @@
+.principal{
+    width: 50%;
+    background-color: salmon;
+    margin: auto;
+    padding: 20px;
+}
+
+
+#titulo{
+    font-size: 20px;
+    text-align: center;
+}
+
+.formilario{
+    border: 40px solid rgb(255, 208, 0);
+    width: 40px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-columns: auto auto auto auto auto auto ;
+    grid-row-gap: 10px;
+}
